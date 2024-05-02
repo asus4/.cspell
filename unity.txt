@@ -1,0 +1,6 @@
+# Basic Unity APIs
+Addressables
+Blit
+Lerp
+MonoBehaviour
+Mathf
