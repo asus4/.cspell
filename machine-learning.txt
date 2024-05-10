@@ -7,4 +7,6 @@ np
 onnx
 
 # TensorFlow
+NNAPI
 tflite
+XNNPack
