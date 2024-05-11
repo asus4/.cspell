@@ -28,3 +28,6 @@ Tilemap
 UGUI
 URP
 Vulkan
+
+# Unity Package APIs
+Sentis
