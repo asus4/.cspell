@@ -15,9 +15,12 @@ Lumin
 Lzma
 MonoBehaviour
 Mathf
+Mipmap
 MSAA
 NPOT
+Preprocess
 Perlin
+Postprocess
 Raycast
 Readback
 Scriptable
@@ -30,4 +33,8 @@ URP
 Vulkan
 
 # Unity Package APIs
+Addressables
 Sentis
+
+# Basic Libraries
+Newtonsoft
