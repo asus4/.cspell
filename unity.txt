@@ -1,13 +1,15 @@
 # Basic Unity APIs
 AABB
 Addressables
+Behaviour
 Bezier
 Blit
-DontDestroyOnLoad
+Dont
 Emscripten
 Flipbook
 HDRP
 Hanning
+HLSL
 IMGUI
 Interactable
 Lerp
@@ -34,6 +36,7 @@ Vulkan
 
 # Unity Package APIs
 Addressables
+Playables
 Sentis
 
 # Basic Libraries
