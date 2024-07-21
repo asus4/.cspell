@@ -38,6 +38,7 @@ Vulkan
 Addressables
 Playables
 Sentis
+Blitter
 
 # Basic Libraries
 Newtonsoft
