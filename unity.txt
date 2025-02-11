@@ -1,5 +1,6 @@
 # Basic Unity APIs
 AABB
+ARGB
 Addressables
 Behaviour
 Bezier
@@ -39,6 +40,7 @@ Addressables
 Playables
 Sentis
 Blitter
+Uxml
 
 # Basic Libraries
 Newtonsoft

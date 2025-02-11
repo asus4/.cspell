@@ -1,4 +1,6 @@
 # General
+NCHW
+NHWC
 np
 
 # PyTorch
