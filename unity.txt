@@ -37,10 +37,12 @@ Vulkan
 
 # Unity Package APIs
 Addressables
+ARKit
 Playables
 Sentis
 Blitter
 Uxml
 
-# Basic Libraries
+# Major Libraries
 Newtonsoft
+Cysharp
